@@ -1,6 +1,62 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1002/pld3.126
+  title: A mass participatory experiment provides a rich temporal profile of temperature
+    response in spring onions
+  authors:
+  - Anna Brestovitsky
+  - Daphne Ezer
+  publisher: Plant Direct
+  date: '2019-03-01'
+  link: https://doi.org/grdz8n
+  tags:
+  - citizen science
+  - alliums
+  - temperature sensing
+  - light sensing
+  - time series
+  - fda
+  _cache: cab3124cc1fed90580b86c53bdf43637268599d5f2ef0bdcef416b74caf85989
+- id: 10.1186/s13059-018-1558-2
+  title: Canonical and single-cell Hi-C reveal distinct chromatin interaction sub-networks
+    of mammalian transcription factors
+  authors:
+  - Xiaoyan Ma
+  - Daphne Ezer
+  - Boris Adryan
+  - Tim J. Stevens
+  publisher: Genome Biology
+  date: '2018-10-25'
+  link: https://doi.org/gfghhm
+  tags:
+  - Hi-C
+  - single cell
+  - DNA structure
+  _cache: 85473c571b5a21d9e62e41698bbdca9bb142c366ebaec5d0dbec0fa886e0b201
+- id: 10.1104/pp.17.01086
+  title: The G-Box Transcriptional Regulatory Code in Arabidopsis
+  authors:
+  - Daphne Ezer
+  - Samuel J.K. Shepherd
+  - Anna Brestovitsky
+  - Patrick Dickinson
+  - Sandra Cortijo
+  - Varodom Charoensawan
+  - Mathew S. Box
+  - Surojit Biswas
+  - Katja E. Jaeger
+  - Philip A. Wigge
+  publisher: Plant Physiology
+  date: '2017-09-01'
+  link: https://doi.org/gb2nxc
+  tags:
+  - G-box
+  - gene networks
+  - regulatory motifs
+  - transcriptional regulation
+  - DNA structure
+  _cache: 3d1ba4fc111738051e180a546d4d462d1e89717b50757d9b614ba2d817ad0a5f
 - id: 10.1038/nplants.2017.87
   title: The evening complex coordinates environmental and endogenous signals in Arabidopsis
   authors:
