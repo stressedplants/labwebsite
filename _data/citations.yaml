@@ -1,6 +1,214 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1101/2022.05.25.493403
+  title: Integrative metabolomics reveal the organisation of alkaloid biosynthesis
+    in <i>Daphniphyllum macropodum</i>
+  authors:
+  - Kaouthar Eljounaidi
+  - Barbara Radzikowska
+  - Caragh Whitehead
+  - Susana Conde
+  - William Davis
+  - Adam Dowle
+  - Swen Langer
+  - Tony Larson
+  - William P. Unsworth
+  - Daphne Ezer
+  - Benjamin R. Lichman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-26'
+  link: https://doi.org/grdz9c
+  tags:
+  - clustering
+  - metabolomics
+  - sparse data
+  - UMAP
+  _cache: 5a0558eac55305658d5049b2458753819778c6de95872cdbb1de6cdb9d562930
+- id: 10.48550/arXiv.2112.00224
+  title: Functional regression clustering with multiple functional gene expressions
+  authors:
+  - Susana Conde
+  - Shahin Tavakoli
+  - Daphne Ezer
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/grdz9d
+  tags:
+  - functional data analysis
+  - combinatorial experiments
+  - clustering
+  - time series
+  _cache: 9c6688c3a2369172a85432ae98834cb54abab45b56a9def002c0bd36d1549459
+- id: 10.1016/j.molp.2021.03.019
+  title: An early-morning gene network controlled by phytochromes and cryptochromes
+    regulates photomorphogenesis pathways in Arabidopsis
+  authors:
+  - Martin Balcerowicz
+  - Mahiar Mahjoub
+  - Duy Nguyen
+  - Hui Lan
+  - Dorothee Stoeckle
+  - Susana Conde
+  - Katja E. Jaeger
+  - Philip A. Wigge
+  - Daphne Ezer
+  publisher: Molecular Plant
+  date: '2021-06-01'
+  link: https://doi.org/grc5ps
+  tags:
+  - morning
+  - gene network
+  - phytochromes
+  - cryptochromes
+  - HY5
+  - BBX family
+  _cache: 6af50fb3cebda34e33cb2e28b37d94b552f3960c02ab2213105f16cf9a7a7863
+- id: 10.1089/cmb.2020.0445
+  title: Reconstructing Genotypes in Private Genomic Databases from Genetic Risk Scores
+  authors:
+  - Brooks Paige
+  - James Bell
+  - "Aur\xE9lien Bellet"
+  - "Adri\xE0 Gasc\xF3n"
+  - Daphne Ezer
+  publisher: Journal of Computational Biology
+  date: '2021-01-05'
+  link: https://doi.org/grdz9f
+  tags:
+  - privacy
+  - genomics
+  - science policy
+  - cryptography
+  _cache: 1b16cad3c4ef3916abd938bee0fb5f92bea9e3a49c1afdb66c9773dbe9a5bc2d
+- id: 10.1017/qpb.2021.8
+  title: What is quantitative plant biology?
+  authors:
+  - "Daphn\xE9 Autran"
+  - George W. Bassel
+  - Eunyoung Chae
+  - Daphne Ezer
+  - Ali Ferjani
+  - Christian Fleck
+  - Olivier Hamant
+  - "F\xE9lix P. Hartmann"
+  - Yuling Jiao
+  - Iain G. Johnston
+  - Dorota Kwiatkowska
+  - Boon L. Lim
+  - "Ari Pekka Mah\xF6nen"
+  - Richard J. Morris
+  - Bela M. Mulder
+  - Naomi Nakayama
+  - Ross Sozzani
+  - Lucia C. Strader
+  - Kirsten ten Tusscher
+  - Minako Ueda
+  - Sebastian Wolf
+  publisher: Quantitative Plant Biology
+  date: '2021-01-01'
+  link: https://doi.org/gj8kqh
+  tags:
+  - quantitative biology
+  _cache: d6b69cbbbbc9afcac3c0e8c70e897686deb60442c53e1f1edee884924d7e06d3
+- id: 10.1093/bioinformatics/btaa639
+  title: 'PAFway: pairwise associations between functional annotations in biological
+    networks and pathways'
+  authors:
+  - Mahiar Mahjoub
+  - Daphne Ezer
+  publisher: Bioinformatics
+  date: '2020-07-17'
+  link: https://doi.org/grdz9g
+  tags:
+  - gene networks
+  - data visualisation
+  - GO terms
+  _cache: 363ecc5f48c5e3a68e328af2643557756fb63a2a7da3b57eec0b7589bd65100c
+- id: 10.1038/s41467-020-15871-z
+  title: 'AI for social good: unlocking the opportunity for positive impact'
+  authors:
+  - "Nenad Toma\u0161ev"
+  - Julien Cornebise
+  - Frank Hutter
+  - Shakir Mohamed
+  - Angela Picciariello
+  - Bec Connelly
+  - Danielle C. M. Belgrave
+  - Daphne Ezer
+  - Fanny Cachat van der Haert
+  - Frank Mugisha
+  - Gerald Abila
+  - Hiromi Arai
+  - Hisham Almiraat
+  - Julia Proskurnia
+  - Kyle Snyder
+  - Mihoko Otake-Matsuura
+  - Mustafa Othman
+  - Tobias Glasmachers
+  - Wilfried de Wever
+  - Yee Whye Teh
+  - Mohammad Emtiyaz Khan
+  - Ruben De Winne
+  - Tom Schaul
+  - Claudia Clopath
+  publisher: Nature Communications
+  date: '2020-05-18'
+  link: https://doi.org/grdz9h
+  tags:
+  - artificial intelligence
+  - science policy
+  _cache: f9027ef382d9bb8f970605a122fd147fb0ad5458816ae90419a6a5d3289330f6
+- id: 10.1104/pp.19.00881
+  title: The Evening Complex Establishes Repressive Chromatin Domains Via H2A.Z Deposition
+  authors:
+  - Meixuezi Tong
+  - Kyounghee Lee
+  - Daphne Ezer
+  - Sandra Cortijo
+  - Jaehoon Jung
+  - Varodom Charoensawan
+  - Mathew S. Box
+  - Katja E. Jaeger
+  - Nozomu Takahashi
+  - Paloma Mas
+  - Philip A. Wigge
+  - Pil Joon Seo
+  publisher: Plant Physiology
+  date: '2019-11-11'
+  link: https://doi.org/gnm4k8
+  tags:
+  - H2A.Z
+  - evening complex
+  - temperature sensing
+  _cache: 2f6ca52a01d627bb098e7cc4d30ea7cf9ad6ff7188d583c2f89bb3372d21b06e
+- id: 10.1186/s12859-019-2717-5
+  title: 'NITPicker: selecting time points for follow-up experiments'
+  authors:
+  - Daphne Ezer
+  - Joseph Keir
+  publisher: BMC Bioinformatics
+  date: '2019-04-02'
+  link: https://doi.org/grdz9j
+  tags:
+  - functional data analysis
+  - data-driven experimental design
+  - RNA-seq
+  _cache: 442a1fcba705a52d1c7f243f256b248bb8fe22eeae186a58549810e9d349d95f
+- id: 10.7554/eLife.43979
+  title: Data science for the scientific life cycle
+  authors:
+  - Daphne Ezer
+  - Kirstie Whitaker
+  publisher: eLife
+  date: '2019-03-06'
+  link: https://doi.org/ggf5p9
+  tags:
+  - data science
+  - data-driven experimental design
+  - reproducibility
+  - science policy
+  _cache: e5bc59cad58781162368184f2a3a2c681e33e753c0b647da5a9e37f8d1db8a1d
 - id: 10.1002/pld3.126
   title: A mass participatory experiment provides a rich temporal profile of temperature
     response in spring onions
@@ -16,8 +224,8 @@
   - temperature sensing
   - light sensing
   - time series
-  - fda
-  _cache: cab3124cc1fed90580b86c53bdf43637268599d5f2ef0bdcef416b74caf85989
+  - functional data analysis
+  _cache: fa6658bcb2f2e6534445a7f3ce6844fa201fc1745dee28488d48d84ce1ca7bf6
 - id: 10.1186/s13059-018-1558-2
   title: Canonical and single-cell Hi-C reveal distinct chromatin interaction sub-networks
     of mammalian transcription factors
