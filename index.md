@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# How do plants sense their environments across different time scales?
+# Environment + genetics + stochasticity -> developmental decisions
 
 Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.
 
