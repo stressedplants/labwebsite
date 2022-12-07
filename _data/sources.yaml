@@ -1,3 +1,26 @@
+- id: 10.1002/pld3.126
+  tags:
+    - citizen science
+    - alliums
+    - temperature sensing
+    - light sensing
+    - time series
+    - fda
+
+- id: 10.1186/s13059-018-1558-2
+  tags:
+    - Hi-C
+    - single cell
+    - DNA structure
+
+- id: 10.1104/pp.17.01086
+  tags:
+    - G-box
+    - gene networks
+    - regulatory motifs
+    - transcriptional regulation
+    - DNA structure
+
 - id: 10.1038/nplants.2017.87
   tags:
     - evening complex
