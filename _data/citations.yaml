@@ -1,6 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1038/nplants.2017.87
+  title: The evening complex coordinates environmental and endogenous signals in Arabidopsis
+  authors:
+  - Daphne Ezer
+  - Jae-Hoon Jung
+  - Hui Lan
+  - Surojit Biswas
+  - Laura Gregoire
+  - Mathew S. Box
+  - Varodom Charoensawan
+  - Sandra Cortijo
+  - Xuelei Lai
+  - "Dorothee St\xF6ckle"
+  - Chloe Zubieta
+  - Katja E. Jaeger
+  - Philip A. Wigge
+  publisher: Nature Plants
+  date: '2017-06-26'
+  link: https://doi.org/gbj4t8
+  tags:
+  - evening complex
+  - temperature sensing
+  - circadian clock
+  - phytochromes
+  _cache: 7fdbeafed848f5a4de8605b8f57d6776c7125e0192d53eac6ee6054e345af885
+- id: 10.1016/j.cub.2016.11.026
+  title: 'Plant Physiology: Out in the Midday Sun, Plants Keep Their Cool'
+  authors:
+  - Daphne Ezer
+  - Philip A. Wigge
+  publisher: Current Biology
+  date: '2017-01-01'
+  link: https://doi.org/grdzzg
+  tags:
+  - photoreceptors
+  - temperature sensing
+  _cache: fce456c33ff60f6ed5c3a6d96cccc404b4d91ca51b7febdc69fc7d43b908c119
+- id: 10.1126/science.aaf6005
+  title: "Phytochromes function as thermosensors in\n            <i>Arabidopsis</i>"
+  authors:
+  - Jae-Hoon Jung
+  - Mirela Domijan
+  - Cornelia Klose
+  - Surojit Biswas
+  - Daphne Ezer
+  - Mingjun Gao
+  - Asif Khan Khattak
+  - Mathew S. Box
+  - Varodom Charoensawan
+  - Sandra Cortijo
+  - Manoj Kumar
+  - Alastair Grant
+  - James C. W. Locke
+  - "Eberhard Sch\xE4fer"
+  - Katja E. Jaeger
+  - Philip A. Wigge
+  publisher: Science
+  date: '2016-11-18'
+  link: https://doi.org/f9crkj
+  tags:
+  - phytochromes
+  - transcriptional regulation
+  - temperature sensing
+  _cache: 436e1be78f6612938af6281ba69b1ca95cfa78a98863fd6830ba31a10a446806
 - id: doi:10.1371/journal.pcbi.1005072
   title: Determining Physical Mechanisms of Gene Expression Regulation from Single
     Cell Gene Expression Data
@@ -14,7 +78,9 @@
   link: https://doi.org/f9krsv
   tags:
   - single cell
-  _cache: fbec3a6a2b9f45542806bf52e9a60c3416ad8acc76e260ff4060e9dccf3c0b86
+  - transcriptional regulation
+  - iterative optimisation algorithm
+  _cache: 39b036ea8a9af921c8a392a63231f05222709c5dea7c727550b1a33440508fa5
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
