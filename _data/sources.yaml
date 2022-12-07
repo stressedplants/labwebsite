@@ -1,3 +1,67 @@
+- id: 10.1101/2022.05.25.493403
+  tags:
+    - clustering
+    - metabolomics
+    - sparse data
+    - UMAP
+
+- id: 10.48550/arXiv.2112.00224
+  tags:
+    - functional data analysis
+    - combinatorial experiments
+    - clustering
+    - time series
+
+- id: 10.1016/j.molp.2021.03.019
+  tags:
+    - morning
+    - gene network
+    - phytochromes
+    - cryptochromes
+    - HY5
+    - BBX family
+
+- id: 10.1089/cmb.2020.0445
+  tags:
+    - privacy
+    - genomics
+    - science policy
+    - cryptography
+
+- id: 10.1017/qpb.2021.8
+  tags:
+    - quantitative biology
+
+- id: 10.1093/bioinformatics/btaa639
+  tags:
+    - gene networks
+    - data visualisation
+    - GO terms
+
+- id: 10.1038/s41467-020-15871-z
+  tags:
+    - artificial intelligence
+    - science policy
+
+- id: 10.1104/pp.19.00881
+  tags:
+    - H2A.Z
+    - evening complex
+    - temperature sensing
+
+- id: 10.1186/s12859-019-2717-5
+  tags:
+    - functional data analysis
+    - data-driven experimental design
+    - RNA-seq
+
+- id: 10.7554/eLife.43979
+  tags:
+    - data science
+    - data-driven experimental design
+    - reproducibility
+    - science policy
+
 - id: 10.1002/pld3.126
   tags:
     - citizen science
@@ -5,7 +69,7 @@
     - temperature sensing
     - light sensing
     - time series
-    - fda
+    - functional data analysis
 
 - id: 10.1186/s13059-018-1558-2
   tags:
