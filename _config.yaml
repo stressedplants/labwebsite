@@ -1,18 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Ezer Lab
+description: Our lab is interested in how plants respond to environmental conditions over different time scales.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /labwebsite
 
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  github: stressedplants
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
