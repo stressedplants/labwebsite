@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# How do plants sense their environments across different time scales?
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.
 
 {%
   include link.html
