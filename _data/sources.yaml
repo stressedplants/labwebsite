@@ -1,4 +1,5 @@
 - id: 10.1101/2022.05.25.493403
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/26/2022.05.25.493403/F8.large.jpg?width=800&height=600&carousel=1
   tags:
     - clustering
     - metabolomics
@@ -13,6 +14,7 @@
     - time series
 
 - id: 10.1016/j.molp.2021.03.019
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1674205221000940-gr3.jpg
   tags:
     - morning
     - gene network
