@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The main biological focus of the group is around environmental signal integration in plants, including model plants, crop species, and ecologically-important species. We are interested in how plants integrate environmental signals over time, across different time scales (minute-by-minute, hourly, daily, seasonally) to make developmental decisions.  We are also interested in stochastic variability in developmental phenotypes and how this impacts fitness.  
+
+For instance, some of our current projects address research questions such as: How do plants sense and respond to the colours of a sunrise?  How do plants integrate light and temperature signals in the early morning to entrain the circadian clock?  How to plants adapt to changes in day length across the seasons?  What controls stochasticity in flowering times?  
 
 {% include section.html %}
 
