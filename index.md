@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Environment + genetics + stochasticity -> developmental decisions
+# Environment + genetics + stochasticity 
 
-Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.
+Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.  We are also interested in why genetically similar plants grown in near-identical conditions will still have phenotypic variability.  
 
 {%
   include link.html
@@ -33,8 +33,7 @@ Our lab investigates how plants sense their environment on a minute-by-minute, h
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here is our latest research.
 
 {%
   include link.html
