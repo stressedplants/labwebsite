@@ -50,21 +50,21 @@ The Ezer lab encourages students and postdoctoral researchers to develop their t
 Please email Daphne Ezer if you would like to discuss whether the Ezer lab would be a good fit for you.  In the body of your email, make sure that the text is specific and shows that you know a little bit about our lab.
 
 We have several opennings for PhD students every year through the University of York doctoral training programmes (DTP) and we also welcome applicants who would like to apply for funding via other channels:
-- White Rose DTP in Mechanistic Biology
-- White Rose Diverse Talent in Mechanistic Biology
-- Adapting to the Challenges of a Changing Environment DTP
-- York Graduate Research School PhD funding for Black Asian and Minority Ethnic Groups.
-- York Partnership with the China Scholarships Council 
+- [White Rose DTP in Mechanistic Biology](https://www.york.ac.uk/biology/postgraduate/dtpbbsrc/)
+- [White Rose Diverse Talent in Mechanistic Biology](https://www.whiterose-mechanisticbiology-dtp.ac.uk/diverse-talent-studentships/)
+- [Adapting to the Challenges of a Changing Environment DTP](https://www.york.ac.uk/biology/postgraduate/nercdtp/)
+- [York Graduate Research School PhD funding for Black Asian and Minority Ethnic Groups](https://www.york.ac.uk/study/postgraduate-research/funding/uk/ygrs-scholarships/)
+- [York Partnership with the China Scholarships Council](https://www.york.ac.uk/news-and-events/news/2015/china-scholarship-council/)
 - Commonwealth scholarship (from Commonwealth countries) or Marshall Scholarship (America)
 
-We welcome postdoctoral researchers who would like to submit applications for conducting fellowships in our lab via the Newton International Fellowship Scheme or a Discovery Fellowship.
+We welcome postdoctoral researchers who would like to submit applications for conducting fellowships in our lab via the [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) or a [BBSRC Discovery Fellowship](https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2023/).
 
 
 {% include section.html %}
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from several organisations.
 {:.center}
 
 {%
