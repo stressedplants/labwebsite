@@ -1,6 +1,6 @@
 ---
 name: Daphne Ezer
-image: images/daphneezer.jpg
+image: images/daphneezer.jpeg
 description: Lecturer in Computational Plant Biology
 role: pi
 links:
