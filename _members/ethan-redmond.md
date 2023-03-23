@@ -2,7 +2,7 @@
 name: Ethan Redmond
 image: images/ethanR.jpg
 description: White Rose DTP
-role: PhD student
+role: phd
 links:
   twitter: https://twitter.com/EthanJRedmond
   linkedIn: https://www.linkedin.com/in/ethan-redmond-97211b170
