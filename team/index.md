@@ -21,6 +21,12 @@ The Ezer lab prides itself on its interdisciplinarity, with members coming from 
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
