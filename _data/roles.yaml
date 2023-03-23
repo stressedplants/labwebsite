@@ -1,9 +1,9 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-dna
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-glasses
+  icon: fas fa-flower-tulip
   text: Postdoctoral Researcher
 
 phd:
