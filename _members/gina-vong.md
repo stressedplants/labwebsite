@@ -1,7 +1,7 @@
 ---
 name: Gina Vong
 image: images/GinaV.jpg
-description: PhD student White Rose DTP
+description: Sunrises and disease response
 role: phd
 group: phd
 links: 
