@@ -3,7 +3,7 @@ pi:
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-flower-tulip
+  icon: fas fa-tree
   text: Postdoctoral Researcher
 
 phd:
