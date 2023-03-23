@@ -65,15 +65,15 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/BBSRCpic.jpg"
+  image1="images/BBSRCpic.png"
   link1="https://www.ukri.org/councils/bbsrc/"
   tooltip1="BBSRC"
 
-  image2="images/EPSRCpic.jpg"
+  image2="images/EPSRCpic.png"
   link2="https://www.ukri.org/councils/epsrc/"
   tooltip2="EPSRC"
 
-  image3="images/RoyalSocietypic.jpg"
+  image3="images/RoyalSocietypic.png"
   link3="https://royalsociety.org/"
   tooltip3="Royal Society"
 
