@@ -1,6 +1,6 @@
 ---
-name: Upton O. Goode
-image: images/DaphneE.jpg
+name: Daphne Ezer
+image: images/daphneezer.jpg
 description: Lecturer in Computational Plant Biology
 role: pi
 links:
