@@ -1,8 +1,8 @@
 ---
 name: Will Claydon
-image: images/WillC.jpeg
+image: images/WillC.jpg
 description: Sunrises and vertical farming
-role: mres
+role: mascot
 links:
   email: wc1044@york.ac.uk
 ---
