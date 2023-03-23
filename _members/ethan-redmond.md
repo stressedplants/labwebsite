@@ -1,7 +1,7 @@
 ---
 name: Ethan Redmond
 image: images/ethanR.jpg
-description: PhD Student
+description: Asynchronous development
 role: phd
 links:
   twitter: https://twitter.com/EthanJRedmond
