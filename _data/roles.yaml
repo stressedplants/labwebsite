@@ -9,6 +9,10 @@ postdoc:
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
+  
+mres:
+  icon: fas fa-graduation-cap
+  text: Masters by Research
 
 undergrad:
   icon: fas fa-user-graduate
