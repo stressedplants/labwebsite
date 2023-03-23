@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Ezer lab prides itself on its interdisciplinarity, with members coming from computer science, mathematics and biology backgrounds.  We support each other and collaborate with one another.
 
 {% include section.html %}
 
@@ -36,23 +33,26 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Ezer lab encourages students and postdoctoral researchers to develop their technical and soft skills.  All team members are encouraged to regularly give presentations at conferences, gain teaching experiences, gain grant writing experiences, and publish their research.
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Please get in touch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please email Daphne Ezer if you would like to discuss whether the Ezer lab would be a good fit for you.  In the body of your email, make sure that the text is specific and shows that you know a little bit about our lab.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+We have several opennings for PhD students every year through the University of York doctoral training programmes (DTP) and we also welcome applicants who would like to apply for funding via other channels:
+- White Rose DTP in Mechanistic Biology
+- White Rose Diverse Talent in Mechanistic Biology
+- Adapting to the Challenges of a Changing Environment DTP
+- York Graduate Research School PhD funding for Black Asian and Minority Ethnic Groups.
+- York Partnership with the China Scholarships Council 
+- Commonwealth scholarship (from Commonwealth countries) or Marshall Scholarship (America)
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
+We welcome postdoctoral researchers who would like to submit applications for conducting fellowships in our lab via the Newton International Fellowship Scheme or a Discovery Fellowship.
+
 
 {% include section.html %}
 
@@ -65,27 +65,16 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/BBSRCpic.jpg"
+  link1="https://www.ukri.org/councils/bbsrc/"
+  tooltip1="BBSRC"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/EPSRCpic.jpg"
+  link2="https://www.ukri.org/councils/epsrc/"
+  tooltip2="EPSRC"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/RoyalSocietypic.jpg"
+  link3="https://royalsociety.org/"
+  tooltip3="Royal Society"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
