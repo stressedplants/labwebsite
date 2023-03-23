@@ -22,6 +22,6 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+technician:
+  icon: fas fa-flower
+  text: Lab Technician
