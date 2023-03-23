@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biology](), at the [University of York]().
+Our lab is part of the [Department of Biology](https://www.york.ac.uk/biology/), at the [University of York](https://www.york.ac.uk/).
 The University of York is located in the beautiful and historic city of York.  It is full of independent eateries, museums, parks and festivals.  You can reach London or Edinburgh in around 2 hours by train and can also easily access the Yorkshire Moors, Yorkshire Dales, and Scarborough and Whitby beaches by public transport.
 
 {%
@@ -26,9 +26,10 @@ The University of York is located in the beautiful and historic city of York.  I
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Department of Biology
+University of York
+Wentworth Way, York 
+YO10 5DD
 {:.center}
 
 {% capture col1 %}
