@@ -7,36 +7,19 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Biology](), at the [University of York]().
+The University of York is located in the beautiful and historic city of York.  It is full of independent eateries, museums, parks and festivals.  You can reach London or Edinburgh in around 2 hours by train and can also easily access the Yorkshire Moors, Yorkshire Dales, and Scarborough and Whitby beaches by public transport.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="Email me for any queries"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="daphne.ezer@york.ac.uk"
   style="button"
 %}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
-{%
-  include link.html
-  type="address"
-  icon=""
-  text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html %}
