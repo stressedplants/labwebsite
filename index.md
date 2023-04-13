@@ -4,24 +4,8 @@ title: Home
 
 # Environment + genetics + stochasticity 
 
-Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.  We are also interested in why genetically similar plants grown in near-identical conditions will still have phenotypic variability.  
+Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.  We are also interested in why genetically similar plants grown in near-identical conditions will still grow and develop at different rates, leading to physiological variation.   
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -33,7 +17,7 @@ Our lab investigates how plants sense their environment on a minute-by-minute, h
 # Highlights
 
 {% capture text %}
-Here is our latest research.
+Here is our latest research. Stay tuned for soon-to-be released projects related to single plant-omics, developmental instability, response to photoperiod, and responses to natural sunrises.
 
 {%
   include link.html
@@ -54,8 +38,7 @@ Here is our latest research.
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We like to have our data and code easily accessible and open access.  We believe that science should be reproducible and easily extendible, and we try to follow FAIR guidelines.
 
 {%
   include link.html
@@ -77,7 +60,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Ezer lab strongly believes that we should support one another and create a positive and collaborative work environment.  
 
 {%
   include link.html
@@ -97,5 +80,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
