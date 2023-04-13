@@ -10,7 +10,7 @@ Our lab investigates how plants sense their environment on a minute-by-minute, h
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/sunriseBanner.png" %}
 
 {% include section.html %}
 
