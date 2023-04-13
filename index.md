@@ -52,7 +52,7 @@ We like to have our data and code easily accessible and open access.  We believe
 
 {%
   include feature.html
-  image="images/groupPhoto.jpg"
+  image="images/dawnburst_network_ezer-8.gif"
   link="resources"
   title="Our Resources"
   flip=true
@@ -74,7 +74,7 @@ The Ezer lab strongly believes that we should support one another and create a p
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/groupPhoto.jpg"
   link="team"
   title="Our Team"
   text=text
