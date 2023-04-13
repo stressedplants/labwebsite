@@ -10,7 +10,7 @@ Our lab investigates how plants sense their environment on a minute-by-minute, h
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/sunriseBanner.png" %}
+{% include banner.html image="images/sunriseBanner.jpg" %}
 
 {% include section.html %}
 
@@ -31,7 +31,7 @@ Here is our latest research. Stay tuned for soon-to-be released projects related
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/scienceIcon.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ We like to have our data and code easily accessible and open access.  We believe
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/groupPhoto.jpg"
   link="resources"
   title="Our Resources"
   flip=true
