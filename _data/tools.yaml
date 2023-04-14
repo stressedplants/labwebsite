@@ -1,20 +1,18 @@
-- title: Dawn Network
+- title: Dawn Burst Network
   subtitle: Gene network browser
   group: featured
   image: images/scienceIcon.gif
   link: https://www-users.york.ac.uk/~de656/dawnBurst/dawnBurst.html
   description: This is the network of genes that are expressed in the morning.
-  repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: AraBOXcis Network
+  subtitle: Gene network browser
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/scienceIcon.gif
+  link: http://www.araboxcis.org/
+  description: This is a network of G-box binding genes.
   tags:
     - resource
 
