@@ -13,10 +13,10 @@ The entire Ezer lab journeyed together to Durham to attend the Genetic's Society
   image1="images/ginaPoster.jpg" 
   tooltip1="Gina presenting her poster"
 
-  image2="images/willPoster.jpg "
+  image2="images/willPoster.jpg"
   tooltip2="Will presenting his poster"
   
-    image3="images/ethanTalk.jpg "
+  image3="images/ethanTalk.jpg"
   tooltip3="Ethan giving a talk"
  
 
