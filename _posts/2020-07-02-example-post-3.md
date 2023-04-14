@@ -4,6 +4,8 @@ tags: biology, medicine
 author: Upton O. Goode
 member: upton-goode
 ---
+{% include feature.html image="images/dawnburst_network_ezer-8.gif" link="team" title="Giving Presentations" flip=true text=text %}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 A lacus vestibulum sed arcu non odio.
