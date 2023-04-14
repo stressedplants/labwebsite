@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Environment + genetics + stochasticity 
+# Environment + genetics + stochasticity + time
 
 Our lab investigates how plants sense their environment on a minute-by-minute, hour-by-hour, and season-by-season basis and integrate this information to make developmental decisions, like deciding when to flower.  We are also interested in why genetically similar plants grown in near-identical conditions will still grow and develop at different rates, leading to physiological variation.   
 
