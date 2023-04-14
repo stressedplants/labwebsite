@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Dawn Network
+  subtitle: Gene network browser
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/scienceIcon.gif
+  link: https://www-users.york.ac.uk/~de656/dawnBurst/dawnBurst.html
+  description: This is the network of genes that are expressed in the morning.
   repo: greenelab/lab-website-template
   tags:
     - resource
