@@ -43,7 +43,7 @@ The Ezer lab prides itself on its interdisciplinarity, with members coming from 
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/sunriseBanner.jpg" dark=true%}
 
 The Ezer lab encourages students and postdoctoral researchers to develop their technical and soft skills.  All team members are encouraged to regularly give presentations at conferences, gain teaching experiences, gain grant writing experiences, and publish their research.
 
